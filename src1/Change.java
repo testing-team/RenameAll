@@ -2,7 +2,7 @@
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-//获取文件路径，根据参数不同，选择不同方式修改文件名
+//获取文件路径，根据选择参数不同，采用不同方式修改文件名
 public class Change {
     private int a = 0, b = 0;// 脚标默认初始值
     private String sInsert = "";// 插入的字符串默认

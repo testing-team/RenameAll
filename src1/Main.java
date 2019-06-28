@@ -1,4 +1,4 @@
-﻿//主方法
+﻿//主函数方法
 public class Main {
 
     public static void main(String[] args) {
